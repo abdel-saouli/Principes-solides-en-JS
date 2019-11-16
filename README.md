@@ -6,7 +6,7 @@ Learn the principals concepts in javascript
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  Principals Concepts Every JavaScript Developer Should Know
   <br><br>
 </h1>
 
@@ -14,9 +14,9 @@ Learn the principals concepts in javascript
 
 ## Introduction
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+This repository was created to help developers precisely zsofter them to master their concepts in JavaScript. This is not a requirement, but a guide for future studies.
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 Considered by Zsoft the source for learn a javascript**
 
 ## Community
 
