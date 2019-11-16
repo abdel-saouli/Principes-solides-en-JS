@@ -9,9 +9,7 @@
   Principals Concepts Every JavaScript Developer Should Know
   <br><br>
 </h1>
-
-[![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
-
+    
 **🚀 Learn the principals concepts of javascript **
 
 
