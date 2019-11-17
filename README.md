@@ -54,6 +54,10 @@
 
 ## 1. Call Stack
 
+### Description
+
+Understand how a line of high-level code like JavaScript turns into and gets executed as a stack frame on the call stack (from high level languages to machine code).
+
 ### Articles
 
  * 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
@@ -84,6 +88,10 @@
 
 ## 2. Primitive Types
 
+### Description
+
+Understand how different primitive types are stored in memory, down to the addresses, space allocated, and binary representation (if you haven’t run into the word mantissa you’re not far enough).
+
 ### Articles
 
  * 📜 [How numbers are encoded in JavaScript — Dr. Axel Rauschmayer](http://2ality.com/2012/04/number-encoding.html)
@@ -112,6 +120,9 @@
 
 ## 3. Value Types and Reference Types
 
+### Description
+Understand the difference between value types and reference types, and assigning values vs assigning pointers.
+
 ### Articles
 
  * 📜 [Explaining Value vs. Reference in Javascript — Arnav Aggarwal](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
@@ -136,6 +147,10 @@
 
 ## 4. Implicit, Explicit, Nominal, Structuring and Duck Typing
 
+### Description
+Understand implicit typing, explicit typing, nominal typing, structural typing, and duck typing.
+
+
 ### Articles
 
  * 📜 [What you need to know about Javascript's Implicit Coercion — Promise Tochi](https://dev.to/promhize/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
@@ -157,6 +172,9 @@
 ---
 
 ## 5. == vs === vs typeof
+
+### Description
+Understand  the difference between expressions == vs === vs typeof.
 
 ### Articles
 
@@ -180,6 +198,9 @@
 ---
 
 ## 6. Function Scope, Block Scope and Lexical Scope
+
+### Description
+Understand function scope, block scope, and lexical scope.
 
 ### Articles
 
@@ -210,6 +231,9 @@
 
 ## 7. Expression vs Statement
 
+### Description
+Understand the difference between an expression and a statement, and what it means to evaluate an expression.
+
 ### Articles
 
  * 📜 [All you need to know about Javascript's Expressions, Statements and Expression Statements — Promise Tochi](https://dev.to/promhize/javascript-in-depth-all-you-need-to-know-about-expressions-statements-and-expression-statements-5k2)
@@ -229,6 +253,9 @@
 ---
 
 ## 8. IIFE, Modules and Namespaces
+
+### Description
+Understand IIFE’s, modules, and namespaces. And why ES6 modules and block scope don’t fully replace IIFE’s.
 
 ### Articles
 
@@ -260,6 +287,9 @@
 
 ## 9. Message Queue and Event Loop
 
+### Description
+Understand how the message queue and event loop work in JavaScript specifically, and how it affects timing, hang, async, etc.
+
 ### Articles
 
  * 📜 [JavaScript Event Loop Explained — Anoop Raveendran](https://medium.com/front-end-hacking/javascript-event-loop-explained-4cd26af121d4)
@@ -288,6 +318,9 @@
 
 ## 10. setTimeout, setInterval and requestAnimationFrame
 
+### Description
+(browser) understand setTimeout, setInterval, and requestAnimationFrame
+
 ### Articles
 
  * 📜 [setTimeout and setInterval — JavaScript.Info](https://javascript.info/settimeout-setinterval)
@@ -310,6 +343,8 @@
 ---
 
 ## 11. JavaScript Engines
+
+### Description
 
 ### Articles
 
